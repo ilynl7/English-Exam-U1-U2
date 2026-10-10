@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<title>امتحان اللغة الإنجليزية — الوحدتان 1 و 2</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='13' font-size='13'%3E%F0%9F%93%9D%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="wrap" id="app">
+
+  <section id="welcome" class="card">
+    <h1>امتحان اللغة الإنجليزية — الوحدتان 1 و 2</h1>
+    <p class="muted">اختبار رسمي لطالب واحد. تعليمات الواجهة بالعربية، وأسئلة الامتحان باللغة الإنجليزية.</p>
+    <div id="blocked"></div>
+    <div id="resume"></div>
+    <h3>الدرجة الكلية: 120 درجة — المدة: 60 دقيقة (بحد أقصى فعلي 90 دقيقة)</h3>
+    <h3>تعليمات مهمة</h3>
+    <ul>
+      <li>الدرجة الكلية للامتحان <b>120</b> درجة موزّعة على: المفردات (30)، القواعد (30)، صيغ الكلمات والأفعال (10)، القراءة (10)، الترجمة (10)، الأدب (10)، الكتابة (20).</li>
+      <li>عند مغادرة صفحة الامتحان أو التبديل إلى تطبيق آخر، <b>يجري الوقت بسرعة ٣ أضعاف</b>. مثال: دقيقة خارج الصفحة = ٣ دقائق من زمن الامتحان.</li>
+      <li>لا يمكن أن تتجاوز مدة الامتحان الفعلية <b>90 دقيقة</b>؛ وعند الوصول إلى الموعد النهائي يتم التسليم تلقائياً.</li>
+      <li>تُصحَّح أسئلة الاختيار من متعدد فوراً عند التسليم، أما درجة الكتابة فتُرصد يدوياً من قِبل المصحح وتبقى <b>قيد الانتظار</b> حتى تُرصد.</li>
+      <li>يوجد نظام مكافآت بسيط مستقل تماماً ولا يزيد الدرجة الرسمية عن 120.</li>
+      <li>يُحفظ تقدّمك محلياً في المتصفح، ويمكنك تصدير نسخة كاملة من إجاباتك بصيغة ملف JSON بعد التسليم. تحفظ المتصفح ليس نسخة احتياطية دائمة على الخادم.</li>
+      <li>لا توجد إجابة صحيحة ظاهرة قبل التسليم، ولا يمكن تغيير الإجابات بعد التسليم.</li>
+    </ul>
+    <div class="warnbanner">تنبيه أمني: هذا الاختبار يحاول تقييد المحاولة إلى محاولة واحدة لكل جهاز/شبكة، لكن لا يمكن ضمان ذلك بشكل كامل من جهة العميل، كما لا يمكن منع التلاعب بساعة المتصفح.</div>
+    <h3>اسم الطالب</h3>
+    <input type="text" id="nameInput" placeholder="اكتب اسمك الكامل هنا" autocomplete="off" aria-label="اسم الطالب">
+    <label class="opt" style="margin-top:14px">
+      <input type="checkbox" id="agree">
+      <span>أقرّ بأنني قرأت التعليمات والقواعد وفهمت نظام الوقت والعقوبة ومكافحة الغش، وأنني سأؤدي الامتحان بمفردي.</span>
+    </label>
+    <div class="row" style="margin-top:12px">
+      <button class="btn" id="startBtn">بدء الامتحان</button>
+    </div>
+    <p class="small" id="startErr" style="color:#fca5a5"></p>
+  </section>
+
+  <section id="exam" class="hidden">
+    <div class="topbar">
+      <div>
+        <div style="font-weight:700" id="secTitle">القسم</div>
+        <div class="muted" style="font-size:.85rem" id="qProgress">0/0</div>
+      </div>
+      <div class="timer" id="timer" aria-live="polite">60:00</div>
+    </div>
+    <div class="card">
+      <div class="progress"><span id="progBar"></span></div>
+      <div class="sechead" style="margin-top:8px">
+        <span class="badge" id="sectionBadge">المفردات</span>
+        <span class="badge" id="bonusBadge">المكافآت: 0</span>
+      </div>
+    </div>
+    <div class="card" id="questionCard"></div>
+    <div class="card">
+      <h3 style="font-size:1rem">متصفّح الأسئلة</h3>
+      <div class="navgrid" id="navGrid"></div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <button class="btn secondary small" id="prevBtn">السابق</button>
+        <button class="btn secondary small" id="nextBtn">التالي</button>
+        <button class="btn ghost small" id="reviewBtn">مراجعة قبل التسليم</button>
+        <button class="btn small" id="submitBtn" style="background:var(--good)">تسليم الامتحان</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="review" class="card hidden">
+    <h2>مراجعة ما قبل التسليم</h2>
+    <div id="reviewBody"></div>
+    <div class="row" style="margin-top:12px">
+      <button class="btn secondary" id="backBtn">العودة للامتحان</button>
+      <button class="btn" id="confirmSubmit" style="background:var(--good)">تأكيد التسليم النهائي</button>
+    </div>
+  </section>
+
+  <section id="results" class="hidden"></section>
+</div>
+<div class="toast" id="toast"></div>
+<script src="/app.js"></script>
+</body>
+</html>
