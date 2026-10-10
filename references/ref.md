@@ -1555,3 +1555,292 @@ Around the World In Eighty Days: Answer the following questions
 Write an essay of about (150) words on the following topic:
 
 "Social media does more harm than good."
+This factory will
+
+a sell
+
+manufacture
+
+cars for both local and international markets.
+
+transport
+
+@repair
+
+② Most charities try to their projects through donations.
+
+a waste
+
+fund
+
+cancel
+
+@ignore
+
+3 Education is the
+
+a lock
+
+b gateway
+
+⚫ barrier
+
+obstacle
+
+to better opportunities and a brighter future.
+
+This car is a
+
+@ single
+
+6 pure
+
+of electric and petrol technology.
+
+hybrid
+
+normal
+
+5 The African Union provides a for leaders to discuss issues affecting the continent.
+
+@ forum
+
+bclinic
+
+convoy
+
+creating
+
+@at
+
+bon
+
+The company's research and development department focuses. innovative new products.
+
+structure
+
+The road
+
+these days.
+
+with
+
+@for
+
+@is paving
+
+bis paved
+
+is being paved
+
+is being paving
+
+Many new projects out in the countryside now.
+
+@ are carrying
+
+⑨ The students
+
+@ study
+
+have carried
+
+for their exams this week.
+
+are being carried
+
+have been carried
+
+⑥ are studied
+
+are studying
+
+is studying
+
+10 The roads
+
+because of the heavy rain today.
+
+@are cleaning
+
+is being cleaned
+
+are being cleaned
+
+was cleaned
+
+a listens
+
+to music while doing my homework.
+
+bam listened
+
+am listening
+
+is listening
+
+12 She of moving to another city.
+
+is thinking
+
+6 thinks
+
+has thought
+
+thoughtRead the following passage, then answer the questions:
+
+The honeybee is a very unusual kind of insect. Unlike other insects, which live alone, the honeybee lives as a member of a community. These bees live together in what is known as a bee colony. The head of the colony is called the queen bee. She is larger than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the worker bees. These bees collect nectar and pollen from flowers.
+
+The nectar that is carried by the worker bees is deposited on the hive and then converted into honey. The worker bees also help look after the young bees.
+
+As soon as the eggs are hatched, the worker bees feed the young bees with pollen and nectar.
+
+The third type of bee found in the colony is the drone or male bee.
+
+The main task of such a bee is to mate with a new queen. The queen bee has a lifespan of about three years. During this period, she would have laid more than half a million eggs. When the queen bee is dying, a new queen would be groomed.
+
+This new queen would eventually take over the 'duties' of the old queen when the latter dies. Bees are small but they play a big role in the ecosystem.
+
+They play an important role as a pollinator for crops. It is vital for food security of human beings. Hence we must control our activities and help protect honeybees.
+
+What is the best title for the passage?
+
+How honey is formed
+
+Bees and other insects
+
+Honeybees' life
+
+Bees and our ecosystem
+
+The thing that distinguishes the honeybee from other insects is that
+
+it can't live alone
+
+it can live alone
+
+it eats nectar
+
+it can't live among trees and flowers
+
+The life of honeybees can teach us
+
+co-operation
+
+selfishness
+
+how to live among trees
+
+The main mission of the queen bee in the colony is to
+
+look after the young bees
+
+kill the worker bees
+
+When the queen bee dies,
+
+the rest stay without a queen
+
+another one takes over
+
+MR. RAFAT IBRAHIM
+
+laziness
+
+collect nectar and pollen
+
+@lay eggs
+
+the other bees will be sad and cry
+
+there isn't anymore nectar
+
+2 of 4
+
+darsenglizy.com
+
+01110296421⑥
+
+The word "latter" is the antonym of the word "
+
+@last
+
+bsecond
+
+former
+
+@next
+
+⑦
+
+The synonym of the word "look after" is
+
+care about
+
+turn off
+
+take over
+
+@give off
+
+⑧
+
+Bees help the crops to
+
+@ disappear
+
+bhgrow
+
+@reproduce
+
+decrease
+
+3. A. Choose the correct Arabic translation from a, b, c or d:
+
+Technology plays a vital role in modern lives and profoundly affects the course of human civilization. Technological advancement has made our lives easier and faster.
+
+أ. تلعب التكنولوجيا دورا صغيرا في الحياة الحديثة وتؤثر بعمق على مسار الحضارة الإنسانية. لقد جعلت الحياة الحديثة التقدم التكنولوجي في حياتنا أسهل وأسرع.
+
+ب. تلعب التكنولوجيا دورا حيويا في الحياة الحديثة وتؤثر بعمق على مسار الحضارة الإنسانية. لقد جعل التقدم التكنولوجي حياتنا أسهل وأسرع.
+
+ج. تلعب التكنولوجيا دورا حيويا في الحياة الحديثة وتؤثر بعمق على مسار الثقافة الإنسانية. لقد جعل التقدم التكنولوجي الحياة الحديثة أسهل وأسرع.
+
+د. تلعب الحياة الحديثة دورا حيويا في التكنولوجيا وتؤثر بعمق في مسار العلوم الإنسانية. لقد جعل التقدم التكنولوجي الحياة الحديثة أسهل وأسرع.
+
+B. Choose the correct English translation from a, b, c or d:
+
+تحاول الحكومة جاهدة إصلاح وتطوير المناطق العشوائية بهدف توفير حياة كريمة للناس.
+
+a. The government tries hard to reform and develop slums with the aim of providing a decent life for people.
+
+b. The government tries hardly to inform and develop slums with the aim of providing a decent life for people.
+
+c. The government tries hard to perform and develop slums with the aim of providing a recent life for people.
+
+d. The government hardly tries to reform and develop slums with the aim of providing a decent life for people.d. The government hardly tries to reform and develop slums with the aim of providing a decent life for people.
+
+MR. RAFAT IBRAHIM
+
+A7
+
+darsenglizy.com
+
+01110296421
+
+درس الجلي
+
+El-mutarjim
+
+في اللغة الإنجليزية
+
+Unit 1
+
+4. Answer the following questions:
+
+1. What differences can you see between Fogg and Passepartout's personalities?
+
+2. How does the description of Fogg's house reflect his personality?
+
+5. Write an essay of about ONE HUNDRED AND EIGHTY (180) words on the following topic:
+
+"How to solve the problem of pollution"
